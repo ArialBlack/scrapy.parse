@@ -14,10 +14,10 @@ var con = mysql.createConnection({
 });
 
 var regions =  [
-    //{ url: 'https://www.tripadvisor.ru/Hotels-g294197-Seoul-Hotels.html' },
+       /* { url: 'https://www.tripadvisor.ru/Hotels-g294197-Seoul-Hotels.html' },
         { url: 'https://www.tripadvisor.ru/Hotels-g297884-Busan-Hotels.html' },
         { url: 'https://www.tripadvisor.ru/Hotels-g297885-Jeju_Jeju_Island-Hotels.html' },
-        { url: 'Токио https://www.tripadvisor.ru/Hotels-g298184-Tokyo_Tokyo_Prefecture_Kanto-Hotels.html' },
+        { url: 'https://www.tripadvisor.ru/Hotels-g298184-Tokyo_Tokyo_Prefecture_Kanto-Hotels.html' },
         { url: 'https://www.tripadvisor.ru/Hotels-g298564-Kyoto_Kyoto_Prefecture_Kinki-Hotels.html' },
         { url: 'https://www.tripadvisor.ru/Hotels-g298566-Osaka_Osaka_Prefecture_Kinki-Hotels.html' },
         { url: 'https://www.tripadvisor.ru/Hotels-g298182-Nikko_Tochigi_Prefecture_Kanto-Hotels.html' },
@@ -126,7 +126,7 @@ var regions =  [
         { url: 'https://www.tripadvisor.ru/Hotels-g293890-Kathmandu_Kathmandu_Valley_Bagmati_Zone_Central_Region-Hotels.html' },
         { url: 'https://www.tripadvisor.ru/Hotels-g1927709-Chitwan_District_Narayani_Zone_Central_Region-Hotels.html' },
         { url: 'https://www.tripadvisor.ru/Hotels-g293891-Pokhara_Gandaki_Zone_Western_Region-Hotels.html' },
-        { url: 'https://www.tripadvisor.ru/Hotels-g293953-Maldives-Hotels.html' }
+        { url: 'https://www.tripadvisor.ru/Hotels-g293953-Maldives-Hotels.html' }*/
     ],
     index = 0;
 
