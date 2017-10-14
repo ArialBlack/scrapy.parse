@@ -9,6 +9,12 @@
   "author": "ArialBlack",
   "license": "ISC",
   "dependencies": {
+    "async": "^2.5.0",
+    "axios": "^0.16.2",
+    "cheerio": "^1.0.0-rc.2",
+    "mongodb": "^2.2.31",
+    "mongoose": "^4.12.1",
+    "mysql": "^2.15.0",
     "node-scrapy": "^0.3.1",
     "underscore": "^1.8.3"
   }
